@@ -34,7 +34,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/nassrkhan/bank-management-system.git
+    git clone https://github.com/nassrkhan/BankManagementSystem.git
     ```
 
 2. Navigate to the project directory:
